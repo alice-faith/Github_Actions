@@ -8,7 +8,7 @@ class MyCalculatorTest {
    public void calculatorTest() {
         MyCalculator myCalculator = new MyCalculator();
         int sum = myCalculator.calculateSum(7, 8);
-        assertEquals(15, sum);
+        assertEquals(17, sum);
 
     }
 }
