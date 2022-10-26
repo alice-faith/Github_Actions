@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: MyCalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.079 s <<< FAILURE! - in MyCalculatorTest
+calculatorTest  Time elapsed: 0.079 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <14> but was: <15>
+	at MyCalculatorTest.calculatorTest(MyCalculatorTest.java:11)
+
